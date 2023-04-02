@@ -1,0 +1,11 @@
+Site:
+https://accounts.google.com/v3/signin/identifier?dsh=S1174991629%3A1680363081882924&continue=https%3A%2F%2Fclassroom.google.com&ifkv=AQMjQ7SGFh39w9jFbpio_kIXjD6wDfk3XTCoW-4_vuyEISUUP1Z9wx-5CyMiJL84wBgBHizl_HuTMA&passive=true&flowName=GlifWebSignIn&flowEntry=ServiceLogin
+
+Navegador:
+Google Chrome
+
+Email:
+seu email aqui
+
+Senha:
+sua senha aqui
